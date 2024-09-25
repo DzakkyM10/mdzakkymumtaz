@@ -4,9 +4,9 @@ public class Movie {
     publik int year;
 
     public Movie(){
-        title;
-        director;
-        year;
+        String title;
+        String director;
+        int year;
     }
 
     public String toString() {

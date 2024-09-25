@@ -3,8 +3,8 @@ public class Customer {
     public String customerId;
 
     public Customer(){
-        name;
-        customerId;
+        String name;
+        String customerId;
     }
 
     public String toString() {
